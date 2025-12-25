@@ -1,0 +1,2 @@
+# AdventureWorksProjectForAzure
+AzureE2EDataEngProject
